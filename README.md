@@ -1,5 +1,5 @@
 
-# Настройка / Settings MNC - Minecraft Node Check
+# Настройка / Settings
 
 # На Русском
 NODE_PREFIXES = ["a"] Префик типо ["буква"] через запятую несколько
